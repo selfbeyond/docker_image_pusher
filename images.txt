@@ -1,1 +1,1 @@
-docker pull vaultwarden/server:testing
+vaultwarden/server:testing
