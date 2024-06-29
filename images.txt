@@ -1,2 +1,2 @@
 homeassistant/home-assistant:2024.7.0b4
-emqx/emqx:5.7
+emqx/emqx:5.7.1
