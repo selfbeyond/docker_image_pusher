@@ -1,2 +1,2 @@
 homeassistant/home-assistant:2024.7.0b4
-oldiy/chrome-novnc
+hslr/sun-panel
