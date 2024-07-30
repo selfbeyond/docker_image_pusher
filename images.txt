@@ -1,4 +1,4 @@
-altran1502/immich-server
-altran1502/immich-machine-learning
+ghcr.io/immich-app/immich-server:release
+ghcr.io/immich-app/immich-machine-learning:release
 redis:6.2-alpine
 tensorchord/pgvecto-rs:pg14-v0.2.0
