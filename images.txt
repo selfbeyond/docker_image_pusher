@@ -1,4 +1,4 @@
-immich-server:release
-immich-machine-learning:release
+immich-server
+immich-machine-learning
 redis:6.2-alpine
 tensorchord/pgvecto-rs:pg14-v0.2.0
