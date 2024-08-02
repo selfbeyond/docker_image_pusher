@@ -1,1 +1,1 @@
-wojiushixiaobai/dataease:latest
+wojiushixiaobai/dataease
